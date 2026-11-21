@@ -15,7 +15,7 @@ function scheduleReconnect() {
 function createBot() {
   const client = bedrock.createClient({
     host: 'blackestheads.mcsh.gg',
-    port: 17242,
+    port: 19132,
     username: 'AFK_Bedrock',
     offline: true
   });
